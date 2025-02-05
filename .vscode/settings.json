@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "database-1.c98y8mck414e.ca-central-1.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "firstrdsdatabase",
+            "database": "lostpaws",
+            "username": "admin"
+        }
+    ]
+}
